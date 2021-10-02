@@ -17,7 +17,7 @@ After discovering evidence of potential academic dishonesty in the reading and m
 
 ## Resources:
  - https://github.com/mcarson16/School_District_Analysis/blob/main/Resources.zip
- - Software: Python 3.7.6, Anaconda Navigator, Jupyter 
+ - Software: Python 3.7.6, Jupyter Notebook
 
 ## School District Analysis Results
 - As spending per student increases, average scores and passing rates do not tend to increase.
